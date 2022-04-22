@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "sharp": "0.29"
+  },
+  "name": "sharp-issue-29",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT"
+}
